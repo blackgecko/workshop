@@ -4,6 +4,6 @@ node {
     }
 
     stage("test") {
-        echo 'dotnet test'
+        echo 'dotnet test 1'
     }
 }
